@@ -1,0 +1,6 @@
+{
+  "name": "React Error Boundary Demo",
+  "description": "A sample project demonstrating the use cases of the react-error-boundary package, including render errors, event handler errors, and async errors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
